@@ -51,7 +51,7 @@ El espacio de color HSV se compone de tres propiedades del color:
 Usualmente se utiliza la figura geométrica de un cono para representar este espacio
 de color, como se muestra en la figura.
 
-**Image**
+![poly](https://user-images.githubusercontent.com/48000150/57259121-5983a500-7013-11e9-99c1-c6dc4b65a55e.PNG)
 
 Del contorno de la base o circunferencia emergen los colores primarios, la escala en
 grados sexagesimales va de 0° = Rojo, a 120° donde aparece la tonalidad Verde,
@@ -85,7 +85,7 @@ píxel.
 - **Multiplicativo:** la imagen obtenida es el resultado de la multiplicación de dos
 señales.
 
-**Imagen**
+![ruidos](https://user-images.githubusercontent.com/48000150/57259124-5b4d6880-7013-11e9-8b8f-b01ef76f972e.PNG)
 
 ### *¿Qué es una máscara (kernel)?*
 En el procesamiento de imágenes, un kernel, una matriz de convolución o una máscara es una matriz pequeña. Se usa para desenfoque, afilado, estampado, detección de bordes y más. Esto se logra haciendo una convolución entre un kernel y una imagen.
@@ -211,3 +211,22 @@ dilataciones y erosiones para rellenar la imagen en caso de ser necesario.
 Una vez que se tiene la imagen perfecta, se busca cualquier contorno que coincida con uno
 de los colores predeterminados, y cuando lo hace, lo encierra en un círculo del mismo color,
 indicando cuál es.
+
+**Reconocimiento de Objeto Rojo**
+
+![red_object](https://user-images.githubusercontent.com/48000150/57259135-630d0d00-7013-11e9-94ed-f2701a82b611.PNG)
+
+**Reconocimiento de Objeto Verde**
+
+![green_object](https://user-images.githubusercontent.com/48000150/57259137-63a5a380-7013-11e9-8f27-31dc40d2a9b0.PNG)
+
+**Reconocimiento de Objeto Azul**
+
+![blue_object](https://user-images.githubusercontent.com/48000150/57259139-63a5a380-7013-11e9-92e9-b82f791430c5.PNG)
+
+**Reconocimiento de Objeto Amarillo y Naranja**
+
+![yellow_and_orange_object](https://user-images.githubusercontent.com/48000150/57259154-6ef8cf00-7013-11e9-9d81-d145425332e2.PNG)
+
+
+
