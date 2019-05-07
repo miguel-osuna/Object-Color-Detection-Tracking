@@ -24,7 +24,21 @@ proporciona un objeto de matriz multidimensional de alto rendimiento y herramien
 para trabajar con estas matrices, en diferentes lenguajes de programación.
 
 ### *Funciones utilizadas*
-
+|   **Funciones**  |
+|     :---:    |
+| `cv2.namedWindow` |
+| `cv2.videoCapture` |
+| `camera.read()` |
+| `cv2.GaussianBlur` |
+| `cv2.cvtColor` |
+| `cv2.inRange`  | 
+| `cv2.morphologyExe` |
+| `cv2.findContours`  |
+| `cv2.minEnclosingCircle` |
+| `cv2.moments`  |
+| `cv2.circle`   | 
+| `cv2.putText`  |
+| `cv2.destroyAllWindows` |
 
 ### *¿Cómo se representa una imagen a color?*
 Las imágenes se codifican como matrices. En particular, las imágenes de intensidad
