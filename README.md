@@ -1,4 +1,4 @@
-# Object-Color-Detection-Tracking
+# Object-Color-Tracking
 El presente trabajo se realizó como trabajo para la clase de Procesamiento de Imágenes Digitales. Implementando la biblioteca OpenCV para el lenguaje de programación Python. 
 
 Consiste en la detección y rastero de objetos de colores.
